@@ -6,13 +6,13 @@ title: I'm New Here
 
 We exist to an extension of God’s unconditional love, acceptance, forgiveness, and empowerment.
 
-# Core Values
+### Core Values
 
 #### God’s presence:
 
 We gather corporately to experience the manifest presence of God; He inhabits the praises of His people.
 
-### God’s Word:
+#### God’s Word:
 
 We believe that the Bible is the infallible word of God and from it we can gain daily the spiritual nourishment needed to live a life surrendered to Christ.
 
@@ -20,11 +20,11 @@ We believe that the Bible is the infallible word of God and from it we can gain 
 
 We welcome all of God’s people regardless of race, background, social status, or religious affiliation to be a part of our church family.
 
-### Generosity:
+#### Generosity:
 
 We don’t just teach it, we live it. We give to those who aren’t able to give back.
 
-### Servanthood:
+#### Servanthood:
 
 We exist to help and serve others.
 
